@@ -63,13 +63,13 @@
 
   <h2 id="objetivos" > 🎯 Objetivos </h2>
 
-  Uma breve descrição sobre o projeto e como ele funciona
+  Um facilitador para criar aggregations no Mongodb
 
   <h2 id="tecnologia"> 🛠 Tecnologias </h2>
 
   As ferramentas utilizadas na construção do projeto foram:
 
-  - [Name Tech](UrlForTheTech)
+  - Javascript/Typescript
 
   <h2 id="usos" > 👷 Como usar? </h2>
 
