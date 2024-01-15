@@ -1,0 +1,26 @@
+{
+  "name": "monkbuilder",
+  "version": "1.0.0",
+  "description": "A builder to generate MongoDB queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "foo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aHub-Tech/MonkBuilder.git"
+  },
+  "keywords": [
+    "orm",
+    "mongo",
+    "builder",
+    "query",
+    "generator"
+  ],
+  "authors": ["Victor Wildner <dev@vcwild.com>","Caio Emidio de Andrade Carnelós <caio.emidio@gmail.com>"],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aHub-Tech/MonkBuilder/issues"
+  },
+  "homepage": "https://github.com/aHub-Tech/MonkBuilder#readme"
+}
