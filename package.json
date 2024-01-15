@@ -4,7 +4,7 @@
   "description": "A builder to generate MongoDB queries",
   "main": "index.js",
   "scripts": {
-    "test": "foo"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -17,10 +17,21 @@
     "query",
     "generator"
   ],
-  "authors": ["Victor Wildner <dev@vcwild.com>","Caio Emidio de Andrade Carnelós <caio.emidio@gmail.com>"],
+  "authors": [
+    "Victor Wildner <dev@vcwild.com>",
+    "Caio Emidio de Andrade Carnelós <caio.emidio@gmail.com>"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/aHub-Tech/MonkBuilder/issues"
   },
-  "homepage": "https://github.com/aHub-Tech/MonkBuilder#readme"
+  "homepage": "https://github.com/aHub-Tech/MonkBuilder#readme",
+  "devDependencies": {
+    "@types/jest": "^29.5.11",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.1"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2"
+  }
 }
